@@ -44,7 +44,8 @@ Create a basic FAQ accordion using only HTML and CSS.
 - **HTML & CSS Only**: The solution should be developed using basic HTML and CSS without JavaScript.
 - **Accordion Behavior**: Ensure that clicking one question hides the previously displayed answer and shows the new one.
 - **Mobile Responsiveness**: The design should adapt to smaller screens with vertical stacking of FAQ items.
-
+#### Link to the solution:
+[FAQ accordion](https://teach2give-nine.vercel.app/)
 ---
 
 ## License
